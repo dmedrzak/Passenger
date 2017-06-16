@@ -1,0 +1,9 @@
+c:\users\danie\documents\visual studio 2017\Projects\Passanger.Core\Passenger.Infrastructure\bin\Debug\netcoreapp1.1\Passenger.Infrastructure.deps.json
+c:\users\danie\documents\visual studio 2017\Projects\Passanger.Core\Passenger.Infrastructure\bin\Debug\netcoreapp1.1\Passenger.Infrastructure.dll
+c:\users\danie\documents\visual studio 2017\Projects\Passanger.Core\Passenger.Infrastructure\bin\Debug\netcoreapp1.1\Passenger.Infrastructure.pdb
+c:\users\danie\documents\visual studio 2017\Projects\Passanger.Core\Passenger.Infrastructure\bin\Debug\netcoreapp1.1\Passenger.Core.dll
+c:\users\danie\documents\visual studio 2017\Projects\Passanger.Core\Passenger.Infrastructure\bin\Debug\netcoreapp1.1\Passenger.Core.pdb
+c:\users\danie\documents\visual studio 2017\Projects\Passanger.Core\Passenger.Infrastructure\obj\Debug\netcoreapp1.1\Passenger.Infrastructure.csprojResolveAssemblyReference.cache
+c:\users\danie\documents\visual studio 2017\Projects\Passanger.Core\Passenger.Infrastructure\obj\Debug\netcoreapp1.1\Passenger.Infrastructure.AssemblyInfo.cs
+c:\users\danie\documents\visual studio 2017\Projects\Passanger.Core\Passenger.Infrastructure\obj\Debug\netcoreapp1.1\Passenger.Infrastructure.dll
+c:\users\danie\documents\visual studio 2017\Projects\Passanger.Core\Passenger.Infrastructure\obj\Debug\netcoreapp1.1\Passenger.Infrastructure.pdb

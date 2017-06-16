@@ -1,0 +1,7 @@
+c:\users\danie\documents\visual studio 2017\Projects\Passanger.Core\Passenger.Tests.EndToEnd\bin\Debug\netcoreapp1.1\Passenger.Tests.EndToEnd.deps.json
+c:\users\danie\documents\visual studio 2017\Projects\Passanger.Core\Passenger.Tests.EndToEnd\bin\Debug\netcoreapp1.1\Passenger.Tests.EndToEnd.dll
+c:\users\danie\documents\visual studio 2017\Projects\Passanger.Core\Passenger.Tests.EndToEnd\obj\Debug\netcoreapp1.1\Passenger.Tests.EndToEnd.AssemblyInfo.cs
+c:\users\danie\documents\visual studio 2017\Projects\Passanger.Core\Passenger.Tests.EndToEnd\bin\Debug\netcoreapp1.1\Passenger.Tests.EndToEnd.pdb
+c:\users\danie\documents\visual studio 2017\Projects\Passanger.Core\Passenger.Tests.EndToEnd\obj\Debug\netcoreapp1.1\Passenger.Tests.EndToEnd.csprojResolveAssemblyReference.cache
+c:\users\danie\documents\visual studio 2017\Projects\Passanger.Core\Passenger.Tests.EndToEnd\obj\Debug\netcoreapp1.1\Passenger.Tests.EndToEnd.dll
+c:\users\danie\documents\visual studio 2017\Projects\Passanger.Core\Passenger.Tests.EndToEnd\obj\Debug\netcoreapp1.1\Passenger.Tests.EndToEnd.pdb

@@ -1,0 +1,13 @@
+c:\users\danie\documents\visual studio 2017\Projects\Passanger.Core\Passenger.Api\bin\Debug\netcoreapp1.1\Passenger.Api.deps.json
+c:\users\danie\documents\visual studio 2017\Projects\Passanger.Core\Passenger.Api\bin\Debug\netcoreapp1.1\Passenger.Api.runtimeconfig.json
+c:\users\danie\documents\visual studio 2017\Projects\Passanger.Core\Passenger.Api\bin\Debug\netcoreapp1.1\Passenger.Api.runtimeconfig.dev.json
+c:\users\danie\documents\visual studio 2017\Projects\Passanger.Core\Passenger.Api\bin\Debug\netcoreapp1.1\Passenger.Api.dll
+c:\users\danie\documents\visual studio 2017\Projects\Passanger.Core\Passenger.Api\bin\Debug\netcoreapp1.1\Passenger.Api.pdb
+c:\users\danie\documents\visual studio 2017\Projects\Passanger.Core\Passenger.Api\bin\Debug\netcoreapp1.1\Passenger.Core.dll
+c:\users\danie\documents\visual studio 2017\Projects\Passanger.Core\Passenger.Api\bin\Debug\netcoreapp1.1\Passenger.Infrastructure.dll
+c:\users\danie\documents\visual studio 2017\Projects\Passanger.Core\Passenger.Api\bin\Debug\netcoreapp1.1\Passenger.Infrastructure.pdb
+c:\users\danie\documents\visual studio 2017\Projects\Passanger.Core\Passenger.Api\bin\Debug\netcoreapp1.1\Passenger.Core.pdb
+c:\users\danie\documents\visual studio 2017\Projects\Passanger.Core\Passenger.Api\obj\Debug\netcoreapp1.1\Passenger.Api.csprojResolveAssemblyReference.cache
+c:\users\danie\documents\visual studio 2017\Projects\Passanger.Core\Passenger.Api\obj\Debug\netcoreapp1.1\Passenger.Api.AssemblyInfo.cs
+c:\users\danie\documents\visual studio 2017\Projects\Passanger.Core\Passenger.Api\obj\Debug\netcoreapp1.1\Passenger.Api.dll
+c:\users\danie\documents\visual studio 2017\Projects\Passanger.Core\Passenger.Api\obj\Debug\netcoreapp1.1\Passenger.Api.pdb

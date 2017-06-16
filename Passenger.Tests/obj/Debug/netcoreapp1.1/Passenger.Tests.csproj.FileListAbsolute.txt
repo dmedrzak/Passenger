@@ -1,0 +1,11 @@
+c:\users\danie\documents\visual studio 2017\Projects\Passanger.Core\Passenger.Tests\bin\Debug\netcoreapp1.1\Passenger.Tests.deps.json
+c:\users\danie\documents\visual studio 2017\Projects\Passanger.Core\Passenger.Tests\bin\Debug\netcoreapp1.1\Passenger.Core.dll
+c:\users\danie\documents\visual studio 2017\Projects\Passanger.Core\Passenger.Tests\bin\Debug\netcoreapp1.1\Passenger.Infrastructure.dll
+c:\users\danie\documents\visual studio 2017\Projects\Passanger.Core\Passenger.Tests\obj\Debug\netcoreapp1.1\Passenger.Tests.csprojResolveAssemblyReference.cache
+c:\users\danie\documents\visual studio 2017\Projects\Passanger.Core\Passenger.Tests\obj\Debug\netcoreapp1.1\Passenger.Tests.AssemblyInfo.cs
+c:\users\danie\documents\visual studio 2017\Projects\Passanger.Core\Passenger.Tests\bin\Debug\netcoreapp1.1\Passenger.Tests.dll
+c:\users\danie\documents\visual studio 2017\Projects\Passanger.Core\Passenger.Tests\bin\Debug\netcoreapp1.1\Passenger.Tests.pdb
+c:\users\danie\documents\visual studio 2017\Projects\Passanger.Core\Passenger.Tests\bin\Debug\netcoreapp1.1\Passenger.Core.pdb
+c:\users\danie\documents\visual studio 2017\Projects\Passanger.Core\Passenger.Tests\bin\Debug\netcoreapp1.1\Passenger.Infrastructure.pdb
+c:\users\danie\documents\visual studio 2017\Projects\Passanger.Core\Passenger.Tests\obj\Debug\netcoreapp1.1\Passenger.Tests.dll
+c:\users\danie\documents\visual studio 2017\Projects\Passanger.Core\Passenger.Tests\obj\Debug\netcoreapp1.1\Passenger.Tests.pdb

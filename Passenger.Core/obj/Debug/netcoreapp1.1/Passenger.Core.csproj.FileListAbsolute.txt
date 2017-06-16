@@ -1,0 +1,7 @@
+c:\users\danie\documents\visual studio 2017\Projects\Passanger.Core\Passenger.Core\bin\Debug\netcoreapp1.1\Passenger.Core.deps.json
+c:\users\danie\documents\visual studio 2017\Projects\Passanger.Core\Passenger.Core\bin\Debug\netcoreapp1.1\Passenger.Core.dll
+c:\users\danie\documents\visual studio 2017\Projects\Passanger.Core\Passenger.Core\bin\Debug\netcoreapp1.1\Passenger.Core.pdb
+c:\users\danie\documents\visual studio 2017\Projects\Passanger.Core\Passenger.Core\obj\Debug\netcoreapp1.1\Passenger.Core.csprojResolveAssemblyReference.cache
+c:\users\danie\documents\visual studio 2017\Projects\Passanger.Core\Passenger.Core\obj\Debug\netcoreapp1.1\Passenger.Core.AssemblyInfo.cs
+c:\users\danie\documents\visual studio 2017\Projects\Passanger.Core\Passenger.Core\obj\Debug\netcoreapp1.1\Passenger.Core.dll
+c:\users\danie\documents\visual studio 2017\Projects\Passanger.Core\Passenger.Core\obj\Debug\netcoreapp1.1\Passenger.Core.pdb
